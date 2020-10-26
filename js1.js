@@ -22,13 +22,13 @@ function js1_f002()
 $('b02').style.borderRightColor="red";
 }
 }
-function js1_f03()
+function js1_f04()
 {
-$('b3').fontVariant="small-caps";
+$('b4').style.fontVariant="small-caps";
 }
-function js1_f003()
+function js1_f004()
 {
-$('b3').fontVariant;
+$('b4').style.fontVariant="small-caps"
 }
 
 
