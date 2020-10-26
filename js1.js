@@ -28,7 +28,7 @@ $('b4').style.fontVariant="inherit";
 }
 function js1_f004()
 {
-$('b4').style.fontVariant="inherit"
+$('b4').style.fontVariant="inherit";
 }
 
 
