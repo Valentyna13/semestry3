@@ -24,7 +24,7 @@ $('b02').style.borderRightColor="red";
 }
 function js1_f04()
 {
-$('b4').style.fontVariant="navy";
+$('b4').style.fontVariant="small-caps";
 }
 function js1_f004()
 {
