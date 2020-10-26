@@ -24,11 +24,11 @@ $('b02').style.borderRightColor="red";
 }
 function js1_f04()
 {
-$('b4').style.fontVariant="small-caps";
+$('b4').style.fontVariant="inherit";
 }
 function js1_f004()
 {
-$('b4').style.fontVariant="small-caps"
+$('b4').style.fontVariant="inherit"
 }
 
 
