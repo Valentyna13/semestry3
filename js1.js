@@ -9,7 +9,6 @@ return element;
 elements.push(element); 
 } 
 return elements; } 
-
 function js1_f1()
 {
 $('b1').style.background="url(logo1.png) repeat-y #fc0";
@@ -22,6 +21,18 @@ function js1_f002()
 {
 $('b02').style.borderRightColor="red";
 }
+}
+function js1_f03()
+{
+$('b3').fontVariant="small-caps";
+}
+function js1_f003()
+{
+$('b3').fontVariant;
+}
+
+
+
 function js1_f3()
 {
 $('b1').style.background="url(logo1.png) repeat-y #fc0";
