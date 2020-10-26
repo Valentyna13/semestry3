@@ -24,7 +24,7 @@ $('b02').style.borderRightColor="red";
 }
 function js1_f04()
 {
-$('b4').style.fontVariant="inherit";
+$('b4').style.fontVariant="navy";
 }
 function js1_f004()
 {
