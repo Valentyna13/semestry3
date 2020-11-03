@@ -29,6 +29,7 @@ function js1_f004()
 {
 $('b4').style.fontVariant="small-caps";
 }
+}
 
 
 
