@@ -21,7 +21,6 @@ function js1_f002()
 {
 $('b02').style.borderRightColor="red";
 }
-}
 function js1_f04()
 {
 $('b4').style.fontVariant="small-caps";
