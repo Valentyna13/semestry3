@@ -1,0 +1,20 @@
+#b1, #b2, #b02, #b3, #b4, #b6, #b7{width:200px; height:auto;
+border:2px solid black;
+}
+.blink {
+  -webkit-animation: blink2 1s linear infinite;
+  animation: blink2 1s linear infinite;
+  width:200px; height:auto;
+  border:2px solid black;
+}
+@-webkit-keyframes blink2 {
+  100% { color: rgba(34, 34, 34, 0); }
+}
+@keyframes blink2 {
+  100% { color: rgba(34, 34, 34, 0); }
+}
+
+.notblink {
+	width:200px; height:auto;
+	border:2px solid black;
+}
