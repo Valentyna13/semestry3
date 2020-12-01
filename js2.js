@@ -1,5 +1,3 @@
-function f(x)
-{document.getElementById('area1').value=x;}
 function changeDesign(input) {
 	var id = input.id;
 	var elem = document.getElementById("my_form");
